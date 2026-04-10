@@ -1,0 +1,13 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Start Live Server",
+      "type": "shell",
+      "command": "echo 'Right-click index.html → Open with Live Server'",
+      "presentation": {
+        "reveal": "silent"
+      }
+    }
+  ]
+}
